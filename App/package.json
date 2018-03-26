@@ -1,0 +1,36 @@
+{
+  "name": "Webuzz",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "moment": "^2.10.6",
+    "react-native": "^0.24.1",
+    "react-native-button": "^1.3.1",
+    "react-native-communications": "*",
+    "react-native-drawer": "^2.0.0",
+    "react-native-fbsdkcore": "0.0.8",
+    "react-native-fbsdklogin": "0.0.8",
+    "react-native-fbsdkshare": "0.0.8",
+    "react-native-gifted-form": "0.0.6",
+    "react-native-gifted-spinner": "0.0.3",
+    "react-native-ibeacon": "^0.5.0",
+    "react-native-image-picker": "^0.18.1",
+    "react-native-lightbox": "^0.5.1",
+    "react-native-maps": "^0.3.1",
+    "react-native-overlay": "^0.4.2",
+    "react-native-side-menu": "^0.18.0",
+    "react-native-storage": "0.0.16",
+    "react-native-swipeout": "^2.0.12",
+    "react-native-swiper": "^1.4.3",
+    "react-native-tabs": "^1.0.7",
+    "react-native-vector-icons": "^1.2.1",
+    "react-native-wx": "1.0.7",
+    "react-timer-mixin": "^0.13.3"
+  },
+  "devDependencies": {
+    "react-event-emitter-mixin": "0.0.3"
+  }
+}

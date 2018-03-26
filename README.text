@@ -1,0 +1,3 @@
+1.通过source tree 下载完整代码
+2.使用 terminal 进入到 app 目录下，输入命令 $ npm install
+3.将 overwite_module.zip 中的 react 模块覆盖至 app/node_modules 里面。
